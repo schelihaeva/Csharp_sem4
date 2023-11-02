@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\bin\Debug\net6.0\sem7-z3.exe
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\bin\Debug\net6.0\sem7-z3.deps.json
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\bin\Debug\net6.0\sem7-z3.runtimeconfig.json
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\bin\Debug\net6.0\sem7-z3.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\bin\Debug\net6.0\sem7-z3.pdb
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\sem7-z3.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\sem7-z3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\sem7-z3.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\sem7-z3.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\sem7-z3.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\sem7-z3.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\refint\sem7-z3.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\sem7-z3.pdb
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\sem7-z3.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 4\Task\sem7-z3\obj\Debug\net6.0\ref\sem7-z3.dll
