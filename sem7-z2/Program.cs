@@ -20,7 +20,7 @@ void PrintArray (int [,] matrix)
         }
     }
 
-    public static int[,] CreateIncreasingMatrix(int n, int m, int k)
+ int[,] CreateIncreasingMatrix(int n, int m, int k)
     {
         int[,] newMatrix = new int[n,m];
         int currentValue = 1;
